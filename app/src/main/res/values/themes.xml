@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MyTheme" parent="Theme.AppCompat.Light">
+
+        <!-- colorPrimaryDark is used for the action bar -->
+        <item name="colorPrimary">#E2FD62</item>
+
+        <!-- colorPrimaryDark is used for the status bar -->
+        <item name="colorPrimaryDark">#fffe29</item>
+
+        <!-- colorAccent is used as the default value for colorControlActivated,
+             which is used to tint widgets-->
+        <item name="colorAccent">@color/abc_background_cache_hint_selector_material_light</item>
+
+        <!--<item name="android:windowActionBarOverlay">true</item>-->
+
+    </style>
+
+</resources>
